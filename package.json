@@ -1,18 +1,18 @@
 {
-	"name": "twentytwenty",
-	"version": "1.0.0",
-	"description": "Default WP Theme",
-	"author": "The WordPress Contributors",
+	"name": "gll-website-theme",
+	"version": "0.1.0",
+	"description": "Custom theme for Law Office of Gerard Lynch based on Twenty Twenty theme",
+	"author": "Nick Hirzel, the WordPress Contributors",
 	"license": "GPL-2.0-or-later",
 	"keywords": [
 		"WordPress",
 		"Theme",
 		"TwentyTwenty"
 	],
-	"homepage": "https://github.com/wordpress/twentytwenty#readme",
+	"homepage": "https://github.com/law-office-of-Gerard-Lynch/gll-website-theme#readme",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/wordpress/twentytwenty.git"
+		"url": "git+https://github.com/law-office-of-Gerard-Lynch/gll-website-theme.git"
 	},
 	"bugs": {
 		"url": "https://github.com/wordpress/twentytwenty/issues"
